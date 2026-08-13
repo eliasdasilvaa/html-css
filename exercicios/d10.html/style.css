@@ -26,6 +26,7 @@
 body {
     background-color: #c5ebd6;
     font-family: Arial, Verdana, Helvetica, sans-serif;
+    background-repeat: no repeat;
 }
 
 a.externo::after {
